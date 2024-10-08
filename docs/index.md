@@ -7,7 +7,7 @@ hero:
   text: "Vue 3 + TypeScript 学习文档"
   tagline: "学习"
   image:
-    src: "https://vueuse.org/favicon.svg"
+    src: "https://my-wxy-bucket.oss-cn-nanjing.aliyuncs.com/images/logo.png"
     alt: 前端工程化
   actions:
     - theme: brand

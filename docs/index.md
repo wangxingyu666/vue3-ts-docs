@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "前端工程化"
   text: "Vue 3 + TypeScript 学习文档"
-  tagline: "学习"
+  tagline: "不断的学习，我们才能不断的前进。"
   image:
     src: "https://my-wxy-bucket.oss-cn-nanjing.aliyuncs.com/images/logo.png"
     alt: 前端工程化

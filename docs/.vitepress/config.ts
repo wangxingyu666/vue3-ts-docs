@@ -37,6 +37,8 @@ export default defineConfig({
                         {text:"按钮 Button",link:"/components/button"},
                         {text:"表单 Form",link:"/components/form"},
                         {text:"表格 Table",link:"/components/table"},
+                        {text:"对话框 Dialog",link:"/components/dialog"},
+                        {text:"vueuse",link:"/components/vueuse"},
                     ],
                 },
             ],
